@@ -1,0 +1,22 @@
+
+
+
+
+.one {color:black;
+    width: 500px;
+    height: 500px;
+    background: whitesmoke 50% 65% no-repeat;
+    margin: 10px 10px 100px 300px;
+    padding: 10px 10px 30px 20px;
+    border: 5px solid ;color: rgb(154, 171, 189.50); 
+    border-radius: 60px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 14px;
+    line-height: 15px;
+    
+    }
+
+
+
+
+a{text-decoration: none;}
