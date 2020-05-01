@@ -2,21 +2,36 @@
 
 
 
-.one {color:black;
+div {color:black;
     width: 500px;
-    height: 500px;
+    height: 550px;
     background: whitesmoke 50% 65% no-repeat;
-    margin: 10px 10px 100px 300px;
+    margin: 10px 10px 10px 30px;
     padding: 10px 10px 30px 20px;
-    border: 5px solid ;color: rgb(154, 171, 189.50); 
+    /*border: 5px solid ;color: rgb(154, 171, 189.50);*/
     border-radius: 60px;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 14px;
-    line-height: 15px;
-    
+    background-position: center;
+    float: left;
+    -webkit-box-shadow: 5px -4px 13px 3px rgba(74, 74, 106, 0.73);
+    -moz-box-shadow:    5px -4px 13px 3px rgba(74, 74, 106, 0.73);
+    box-shadow:         5px -4px 13px 3px rgba(74, 74, 106, 0.73);
+
     }
 
 
+.card-image{ padding: 10px 10px 15px 30px;
+    margin: 10px 10px 5px 10px;}
 
+.card-text {text-align:  center;
+font-family:Arial;
+font-size: 14px;
+line-height: 15px;}
 
-a{text-decoration: none;}
+.card-abz {text-align:  center;
+text-transform: uppercase;
+font-family:Arial;
+font-size: 14px;
+line-height: 15px;}
+
+a{text-decoration: none;
+    text-align:  left}
