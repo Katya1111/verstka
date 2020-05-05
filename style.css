@@ -1,8 +1,11 @@
+[href="https://www.google.ru/"]{
+    color: lime;
+    text-decoration: line-through;
+}
 
+.input-text{color: blue}
 
-
-
-div {color:black;
+.block {color:black;
     width: 500px;
     height: 550px;
     background: whitesmoke 50% 65% no-repeat;
@@ -22,6 +25,7 @@ div {color:black;
 .card-image{ padding: 10px 10px 15px 30px;
     margin: 10px 10px 5px 10px;}
 
+
 .card-text {text-align:  center;
 font-family:Arial;
 font-size: 14px;
@@ -35,3 +39,11 @@ line-height: 15px;}
 
 a{text-decoration: none;
     text-align:  left}
+
+.iteam .subiteam>p{ color: rgb(163, 49, 49); 
+font-weight: bold;
+} 
+
+.iteam .subiteam>p+ul{ color: blueviolet; 
+    font-weight: 300;
+    }
