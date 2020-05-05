@@ -1,9 +1,22 @@
-[href="https://www.google.ru/"]{
+/* .main{
     color: lime;
     text-decoration: line-through;
+} */
+[href]{color: cyan;}
+[href]:visited{color: crimson;}
+[href]:link{color: rgb(33, 20, 220);}
+[href]:hover{color: rgb(220, 190, 20);}
+
+
+.input-submit:hover{
+background-color: coral;
 }
 
+
+
 .input-text{color: blue}
+
+
 
 .block {color:black;
     width: 500px;
